@@ -1,0 +1,15 @@
+.pan {
+  &__parent {
+    position: relative;
+    width: 100%;
+    height: 500px;
+    border: 1px solid #000;
+  }
+
+  &__item {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border: 1px solid #EEE;
+  }
+}

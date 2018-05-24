@@ -1,5 +1,7 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
+import 'hammerjs';
+import 'hammer-timejs';
 
 
 import { AppComponent } from './app.component';
